@@ -1,9 +1,13 @@
 **Realtime Chat Application (MERN Stack)**
+
 This project is a real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with Socket.IO for enabling real-time communication between users.
 
 **Features**
+
 **1. Real-Time Chatting Experience:** Utilizing Socket.IO, this application provides users with a seamless real-time chatting experience, allowing them to exchange messages instantly.
+
 **2. MERN Stack:** The application is built using MongoDB for data storage, Express.js for the backend server, React.js for the frontend user interface, and Node.js for server-side scripting.
+
 **3. User Authentication:** Users can sign up, log in, and authenticate themselves securely to access the chat features.
 
 **Technologies Used**
