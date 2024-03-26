@@ -19,32 +19,42 @@ This project is a real-time chat application built using the MERN (MongoDB, Expr
 5. Socket.IO: JavaScript library for real-time web applications, enabling bidirectional communication between clients and servers.
 
 **Hosted Url**
+
 https://lets-chat-gapm.onrender.com/
 
 **Getting Started**
+
 To run this project locally, follow these steps:
 
 **Clone the repository:**
+
 git clone https://github.com/soumilaggarwal2003/Chat-Application
 
 **Install dependencies:**
+
 cd Backend
+
 npm install
 
 cd Frontend
+
 npm install
 
 **Set up environment variables:**
+
 Create a .env file in the root directory.
+
 Add environment variables for MongoDB URI.
 
 
 **Start the development server:**
 
 cd Frontend
+
 npm run dev
 
 cd Backend
+
 npm run server
 
 Open your browser and navigate to http://localhost:5173 to access the application.
